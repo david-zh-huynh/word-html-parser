@@ -1,0 +1,94 @@
+Content:  Test
+Content:  
+
+Content:  Project Google Docs Parser for Monkey-Backend
+Content:  
+
+Content:  Requirements:
+Content:  
+
+Unorganised List found
+Start tag:  ul
+Content:  
+
+Start tag:  li
+Content:  Google Account
+Content:  
+
+Start tag:  li
+Content:  Google API
+Content:  
+
+Start tag:  li
+Content:  Backend API Views for Posting data, if authenticated.
+Content:  
+
+Start tag:  li
+Content:  Differentiate and define section types: (h1, h2, h3, h4, p, a, hrefs, ul, ol, images)
+Content:  
+
+Start tag:  li
+Content:  Error-Handling and Notification for User
+Content:  
+
+Start tag:  li
+Content:  Frontend-Template Decision (Draw a Scheme by hand or draw.io)
+Content:  
+
+Start tag:  li
+Content:  Image-resizing for different viewports (Desktop/Tablet) (Take Python Library)
+Content:  
+
+Start tag:  li
+Content:  Define Upload Fields for MetaData (Frontend)
+Content:  
+
+Content:  
+
+Content:  MVP Steps:
+Content:  
+
+Ordered List found
+Start tag: ol
+     attr: ('type', '1')
+Content:  
+
+Start tag:  li
+Content:  Checkout Google incl. OAuth Flow. API and print Dummy-Data in command-line. 
+Content:  https://developers.google.com/docs/api/samples/extract-text
+Content:  
+
+Start tag:  li
+Content:  Write Down Requirements for OAuth in google API (Every Customer will need a google account and an OAuth Token)
+Content:  
+
+Start tag:  li
+Content:  Create and draw Error-Handling Scheme on draw.io
+Content:  
+
+Start tag:  li
+Content:  Implement Error-Handling Scheme
+Content:  
+
+Start tag:  li
+Content:  Create Frontend-End Prototype
+Content:  
+
+Start tag:  li
+Content:  Implement User-Notifications for Error-Handling in Front-End (incl. Section where error is Notification)
+Content:  
+
+Start tag:  li
+Content:  Implement Backend Endpoints (POST) for new article.
+Content:  
+
+Start tag:  li
+Content:  Implement Backend Endpoints (PUT) update existing article.
+Content:  
+
+Start tag:  li
+Content:  Implement Backend Endpoints (DELETE) delete existing article.
+Content:  
+
+Content:  
+
